@@ -83,6 +83,11 @@ manifest-checksum.txt
 .gradle/
 gradlew
 gradlew.bat
+app/
+build.gradle
+gradle.properties
+gradle/
+settings.gradle
 
 # Deployment
 .vercel/
