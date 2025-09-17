@@ -75,8 +75,14 @@ android/
 
 # Bubblewrap generated files
 twa-manifest.json
-app-release-unsigned.apk
-app-release-signed.apk
+app-release-*.apk
+app-release-*.aab
+*.idsig
+store_icon.png
+manifest-checksum.txt
+.gradle/
+gradlew
+gradlew.bat
 
 # Deployment
 .vercel/
