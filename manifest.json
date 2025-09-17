@@ -2,18 +2,18 @@
     "name": "スピードガン - 動画で速度測定",
     "short_name": "スピードガン",
     "description": "動画を分析して、人や物の移動速度を計算します。野球の投球だけでなく、様々なシーンでご利用いただけます。距離を入力し、開始点と終了点をマークするだけで、すぐに速度がわかります。",
-    "start_url": "/",
+    "start_url": "/speed-gun-app/",
     "display": "standalone",
     "background_color": "#0f172a",
     "theme_color": "#0f172a",
     "orientation": "portrait",
     "icons": [{
-            "src": "/icons/icon-192x192.png",
+            "src": "/speed-gun-app/icons/icon-192x192.png",
             "type": "image/png",
             "sizes": "192x192"
         },
         {
-            "src": "/icons/icon-512x512.png",
+            "src": "/speed-gun-app/icons/icon-512x512.png",
             "type": "image/png",
             "sizes": "512x512"
         }
