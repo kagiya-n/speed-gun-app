@@ -3,6 +3,6 @@
   "target": {
     "namespace": "android_app",
     "package_name": "com.speedgun.app",
-    "sha256_cert_fingerprints": ["REPLACE_WITH_YOUR_SHA256_FINGERPRINT"]
+    "sha256_cert_fingerprints": ["69:45:62:92:4D:EA:7C:8D:41:83:50:73:C7:1E:3C:58:0E:52:5B:5A:E8:D1:55:72:14:D7:79:EF:8F:47:D8:81"]
   }
 }]
