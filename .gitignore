@@ -46,6 +46,7 @@ android/gradlew.bat
 *.jks
 key.properties
 google-services.json
+android.keystore
 
 # APK files
 *.apk
@@ -71,6 +72,11 @@ DEPLOY.md
 SIMPLE_BUILD.md
 play-store-metadata.md
 android/
+
+# Bubblewrap generated files
+twa-manifest.json
+app-release-unsigned.apk
+app-release-signed.apk
 
 # Deployment
 .vercel/
