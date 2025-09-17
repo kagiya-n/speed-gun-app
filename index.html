@@ -6,6 +6,7 @@
     <title>スピードガン - 動画で速度測定</title>
     <link rel="manifest" href="/speed-gun-app/manifest.json" />
     <meta name="theme-color" content="#0f172a" />
+    <link rel="icon" href="/speed-gun-app/favicon.ico" />
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
       @keyframes fadeIn {
@@ -32,7 +33,7 @@
   </head>
   <body class="bg-slate-900">
     <div id="root"></div>
-    <script type="module" src="/speed-gun-app/index.tsx"></script>
+    <script type="module" src="/speed-gun-app/index.js"></script>
     <script>
       if ("serviceWorker" in navigator) {
         window.addEventListener("load", () => {
