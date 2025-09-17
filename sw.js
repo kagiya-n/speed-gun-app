@@ -4,13 +4,7 @@ const urlsToCache = [
   "/speed-gun-app/index.html",
   "/speed-gun-app/index.js",
   "/speed-gun-app/metadata.json",
-  "/speed-gun-app/App.tsx",
-  "/speed-gun-app/constants.ts",
-  "/speed-gun-app/components/FileUpload.tsx",
-  "/speed-gun-app/components/VideoProcessor.tsx",
-  "/speed-gun-app/components/ResultDisplay.tsx",
-  "/speed-gun-app/components/icons.tsx",
-  "/speed-gun-app/components/AppIcon.tsx",
+  "/speed-gun-app/App.js",
   "/speed-gun-app/manifest.json"
 ];
 
